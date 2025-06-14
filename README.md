@@ -25,3 +25,5 @@
 * Close VS code
 * Run **app.bat**
 * Enjoy your local AI chatbot
+
+    ![App Screenshot](/wandee_ai_pro.png)
