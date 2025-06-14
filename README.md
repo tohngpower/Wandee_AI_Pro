@@ -9,11 +9,11 @@
     > /bye
 
 * Close **CMD**
-* Create folder **Gemma**
+* Create folder **Wandee_AI_Pro**
   
     > python -m venv ./env
     
-* Open folder **Gemma** with Code
+* Open folder **Wandee_AI_Pro** with Code
 * Open terminal
   
     > ./env/Scripts/Activate
